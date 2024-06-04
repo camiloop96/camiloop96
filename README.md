@@ -18,6 +18,7 @@
 Here are some projects I'm proud of:
 
 - **Portfolio client**: [portfolio-client](https://github.com/camiloop96/portfolio-client) - A responsive, modern web application showcasing my skills in building intuitive user interfaces with ReactJS, styled with SASS, and optimized for performance with Vite.
+- **Portfolio server**: [portfolio-client](https://github.com/camiloop96/portfolio-server) - A backend application modular, highly scalable with optminized data flow thats provide all-time available resources to client. Build in NodeJS with ExpressJS framework and MongoDB as persist module.
 
 
 ### Skills
