@@ -17,20 +17,20 @@
 
 Here are some projects I'm proud of:
 
-- **Portfolio client**: [portfolio-client]((https://github.com/camiloop96/portfolio-client)) - Description.
+- **Portfolio client**: [portfolio-client]((https://github.com/camiloop96/portfolio-client)) - A responsive, modern web application showcasing my skills in building intuitive user interfaces with ReactJS, styled with SASS, and optimized for performance with Vite.
 
 
 ### Skills
 
 - **Languages**: JavaScript/TypeScript, Python, Java
-- **Frontend**: React, HTML/CSS, Bootstrap
+- **Frontend**: React, HTML/CSS, SASS
 - **Backend**: Node.js, Express
-- **Databases**: MongoDB, MySQL
+**Databases**: MongoDB, MySQL (begginer)
 - **Tools**: Git, VS Code, Postman
 
 ### Let's Connect!
 
-- LinkedIn: [camiloop96](https://www.linkedin.com/in/camiloop96/) A responsive, modern web application showcasing my skills in building intuitive user interfaces with ReactJS, styled with SASS, and optimized for performance with Vite.
+- LinkedIn: [camiloop96](https://www.linkedin.com/in/camiloop96/)
 - Email: cpolania96@outlook.com
 
 Feel free to reach out if you'd like to collaborate on a project, have a cool idea, or just want to chat! 😄
