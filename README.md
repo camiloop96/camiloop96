@@ -17,7 +17,7 @@
 
 Here are some projects I'm proud of:
 
-- **Portfolio client**: [portfolio-client]((https://github.com/camiloop96/portfolio-client)) - A responsive, modern web application showcasing my skills in building intuitive user interfaces with ReactJS, styled with SASS, and optimized for performance with Vite.
+- **Portfolio client**: [portfolio-client]([https://github.com/camiloop96/portfolio-client]) - A responsive, modern web application showcasing my skills in building intuitive user interfaces with ReactJS, styled with SASS, and optimized for performance with Vite.
 
 
 ### Skills
