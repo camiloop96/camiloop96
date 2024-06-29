@@ -17,6 +17,8 @@
 
 Here are some projects I'm proud of:
 
+- **TauroSystem server**:[tauro-server](https://github.com/camiloop96/tauro-server) - Tauro is a corporate management software designed to streamline and optimize various business operations. Built with a robust backend architecture using Node.js (ExpressJS) and TypeScript, it features modules for product management, point of sale (POS), scheduling, and order tracking. Currently in development, Tauro aims to provide efficient and secure solutions for managing company activities through a RESTful API structure.
+
 - **Portfolio client**: [portfolio-client](https://github.com/camiloop96/portfolio-client) - A responsive, modern web application showcasing my skills in building intuitive user interfaces with ReactJS, styled with SASS, and optimized for performance with Vite.
 - **Portfolio server**: [portfolio-server](https://github.com/camiloop96/portfolio-server) - A backend application modular, highly scalable with optminized data flow thats provide all-time available resources to client. Build in NodeJS with ExpressJS framework and MongoDB as persist module.
 
